@@ -1,8 +1,8 @@
-# [FIAP - Pos Tech] Fast Food
+# [FIAP - PosTech] Fast Food
 
-FIAP Pos Tech - SOFTWARE ARCHITECTURE
+FIAP PosTech - SOFTWARE ARCHITECTURE
 
-SOAP2 - Grupo 7
+SOAT2 - Grupo 7
 
 
 ## Desenvolvedores :octocat:
